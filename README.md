@@ -1,1 +1,4 @@
-trigger
+needed env:
+$VER
+$UUID
+
