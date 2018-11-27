@@ -17,5 +17,5 @@ fi
 
 cp -f /config.json .
 chmod +x v2ray v2ctl
-sed -i "s/your_uuid/$UUID/g" config.json
+sed -i "s/738832ec-b00e-4c12-b204-9b9fe01acff9/$UUID/g" config.json
 ./v2ray
